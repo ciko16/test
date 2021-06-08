@@ -1,0 +1,38 @@
+body{
+    background: url(back.jpg);
+   
+    
+}
+.dua {
+    position: fixed;
+    top: 30%;
+    font-weight: bold;
+    left: 20%;
+    background:transparent;
+    color: black;
+}
+.tiga{
+    margin-right: auto;
+    width:200px;
+    height:200px;
+    position:absolute;
+    bottom:0%;
+    
+}
+.empat{
+    width: 500px;
+    height: 100px;
+    background-color: transparent;
+    border-radius: 1px;
+    box-shadow: 5px 5px 5px;
+    position: fixed;
+    top: 30%;
+    right: 20%;
+}
+.lima{
+    background-color: transparent;
+    margin-top: 15%;
+    margin-left: 400px;
+    margin-right: 400px;
+   
+}
